@@ -1,0 +1,22 @@
+{
+  "name": "daily-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^3.9.3",
+    "typescript-deno-plugin": "^1.31.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halilcakar/daily-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halilcakar/daily-challenge/issues"
+  },
+  "homepage": "https://github.com/halilcakar/daily-challenge#readme"
+}
